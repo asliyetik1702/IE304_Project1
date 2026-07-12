@@ -20,6 +20,11 @@ The purpose of this project is to provide a simple conversational interface thro
 
 The assistant is designed to prioritize official METU Industrial Engineering sources and avoid generating unsupported information.
 
+## Live Application
+
+You can access the deployed chatbot here:
+https://ie304-project-iesummerpracticechatbot.streamlit.app/
+
 ## Key Features
 
 ### Intelligent Document Processing
